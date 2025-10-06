@@ -28,7 +28,7 @@ nav a {
 }
 
 .hero {
-    background: url('../images/mainpage.jpg') center/cover no-repeat;
+    background: url('./images/mainpage.jpg') center/cover no-repeat;
     color: white;
     text-align: center;
     position:relative;
@@ -347,4 +347,5 @@ nav {
     cursor: pointer;
     transition: background 0.3s;
 }
+
 
